@@ -1,2 +1,3 @@
 model.onnx
 model_quantized.onnx
+app.db
